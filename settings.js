@@ -1,12 +1,12 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
-// @project_name : Jinwoo
-// @author : Malvin
-// @youtube : https://www.youtube.com/@malvintech2
-// @instagram : techlord01
-// @telegram : t.me/malvinking2
-// @github : xdking2
-// @whatsapp : +263714757857
+// @project_name : dollar
+// @author : dollar
+// @youtube : https://chat.whatsapp.com/C8Ov2h1aIIV0ndTanixQok
+// @instagram : pubg.dollar.wow
+// @telegram : ?
+// @github : dollar
+// @whatsapp : +923404469538
 
 //----------------------[ Jinwoo ]----------------------//
 
@@ -22,15 +22,15 @@ global.SESSION_ID = process.env.SESSION_ID || 'jinwoo:~ArMBgAID#ltmxM4A43yFihlpi
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'ᴊɪɴᴡᴏᴏ-ʙᴏᴛ' 
+global.botname = process.env.BOT_NAME || 'dollar' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '263780166288' 
+global.ownernumber = process.env.OWNER_NUMBER || '923404469538' 
 
 //--------------------[ SUDO ]--------------------------//
 
-global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['263714757857', '263780934873'];
+global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['923404469538', '923404469538'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
@@ -40,7 +40,7 @@ global.ownername = process.env.OWNER_NAME || 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ'
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "jinwoo" 
+global.packname = process.env.STICKER_PACK_NAME || "dollar" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
